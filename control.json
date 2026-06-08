@@ -3,3 +3,8 @@
   "allowed": false,
   "disabledMessage": "该软件已不再使用！"
 }
+
+//NewBox的禁用控制小于等于这个版本号的禁用，大于的放行。
+//allowed": false   表示禁用
+ //"disabledMessage": "该软件已不再使用！"相关弹窗提示
+
