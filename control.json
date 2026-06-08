@@ -1,11 +1,8 @@
 {
   "version": "1.2.3",
   "allowed": true,
-  "disabledMessage": "该软件已被禁用，请联系管理员获取访问权限。",
-  "imageUrl": "https://gips3.baidu.com/it/u=4028841722,3177937756&fm=3074&app=3074&f=PNG?w=2048&h=2048"
+  "disabledMessage": "",
+  "imageUrl": ""
 }
 
-//NewBox的禁用控制小于等于这个版本号的禁用，大于的放行。
-//allowed": false   表示禁用
- //"disabledMessage": "该软件已不再使用！"相关弹窗提示
 
