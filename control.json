@@ -1,1 +1,4 @@
-0
+{
+  "allowed": true,
+  "disabledMessage": "该软件已被禁用，请联系管理员获取访问权限。"
+}，
